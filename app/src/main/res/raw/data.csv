@@ -1,0 +1,425 @@
+NAME,STATUS,Name
+E100,Halal,Curcumin/Turmeric
+E101,HARAM,Riboflavin (Vitamin B2)
+E101(a),Halal,Riboflavin-5'-phosphate
+E102,Halal,Tartrazine
+E103,Halal,Chrysoine Resorcinol
+E104,Halal,Quinoline Yellow
+E105,Halal,Fast Yellow AB
+E106,Halal,Riboflavin-5-sodium Phosphate
+E107,Halal,Yellow 2G
+E110,Halal,Sunset Yellow FCF / Orange Yellow S
+E111,Halal,Orange GGN
+E120,Haram,Cochineal / Carminic Acid
+E122,Halal,Carmoisine / Azorubine
+E123,Halal,Amaranth
+E124,Halal,Ponceau 4R / Cochineal Red A
+E125,Halal,Ponceau SX
+E126,Halal,Ponceau 6R
+E127,Halal,Erythrosine BS
+E128,Halal,Red 2G
+E129,Halal,Allura Red AC
+E130,Halal,Indanthrene Blue RS
+E131,Halal,Patent Blue V
+E132,Halal,Indigo Carmine / Idigotine
+E133,Halal,Brilliant Blue FCF
+E140,Halal,Chlorophyll
+E141,Halal,Copper Complex of Chlorophyll
+E142,Halal,Green S / Acid Brilliant Green BS
+E143,Halal,Fast Green FCF
+E150,Halal,Caramel Color/with chemicals
+E150a,Halal,Plain caramel
+E150b,Halal,Caustic sulphite caramel
+E150c,Halal,Ammonia caramel
+E150d,Halal,Sulphite ammonia caramel
+E151,Halal,Black PN / Brilliant Black BN
+E152,Halal,Carbon black (hydrocarbon)
+E153,HARAM,Carbon Black / Vegetable Carbon (Charcoal)
+E154,Halal,Brown FK
+E155,Halal,Brown HT
+E160a,Halal,"Alpha, Beta, Gamma"
+E160b,Halal,"Annatto, Bixin, Norbixin"
+E160c,Halal,Capsanthin / Capsorbin
+E160d,Halal,Lycopene
+E160e,Halal,Beta-apo-8-carotenal
+E160f,Halal,Ethyl ester of Beta-apo- 8-cartonoic acid
+E161a,Halal,Flavoxanthin
+E161b,Halal,Lutein
+E161c,Halal,Cryptoxanthin
+E161d,Halal,Rubixanthin
+E161e,Halal,Violaxanthin
+E161f,Halal,Rhodoxanthin
+E161g,HARAM,Canthaxanthin
+E161h,Halal,Zeaxanthin
+E161i,Halal,Citranaxanthin
+E161j,Halal,Astaxanthin
+E162,Halal,Beetroot Red / Betanin
+E163,Halal,Anthocyanins
+E170,Halal,Calcium Carbonate (Chalk)
+E171,Halal,Titanium Dioxide
+E172,Halal,Iron Oxides and Hydroxides
+E173,Halal,Aluminium
+E174,Halal,Silver
+E175,Halal,Gold
+E180,Halal,Pigment Rubine / Lithol Rubine BK
+E181,Halal,Tannin
+E200,Halal,Sorbic Acid
+E201,Halal,Soduim Sorbate
+E202,Halal,Potassium Sorbate
+E203,Halal,Calcium Sorbate
+E210,Halal,Benzoic Acid
+E211,Halal,Sodium Benzoate
+E212,Halal,Potassium Benzoate
+E213,Halal,Calcium Benzoate
+E214,Halal,Ethyl 4-hydroxybenzoate
+E215,Halal,"Ethyl 4-hydroxybenzoate, Sodium Salt"
+E216,Halal,Propyl 4- hydroxybenzoate
+E217,Halal,"Propyl 4-hydroxybenzoate, Sodium Salt"
+E218,Halal,Methyl 4- hydroxybenzoate
+E219,Halal,"Methyl 4- hydroxybenzoate, Sodium Salt"
+E220,Halal,Sulphur Dioxide
+E221,Halal,Sodium Sulphite
+E222,Halal,Sodium Hydrogen Sulphite
+E223,Halal,Sodium Metabisulphite
+E224,Halal,Potassium Metabisulphite
+E225,Halal,Sodium Sulfite
+E226,Halal,Calcium Sulphite
+E227,Halal,Calcium Hydrogen Sulphite
+E228,Halal,Potassium Hydrogen Sulphite
+E230,Halal,Biphenyl / Diphenyl
+E231,Halal,2-Hydroxybiphenyl
+E232,Halal,Sodium Biphenyl-2-yl Oxide
+E233,Halal,2-(Thiazol-4-yl) Benzimidazole
+E234,Halal,Nisin
+E235,Halal,Natamycin
+E236,Halal,Formic Acid
+E237,Halal,Sodium Formate
+E238,Halal,Calcium Formate
+E239,Halal,Hexamine
+E240,Halal,Formaldehyde
+E242,Halal,Dimethyl Dicarbonate
+E249,Halal,Potassium Nitrate
+E250,Halal,Sodium Nitrite
+E251,Halal,Sodium Nitrate
+E252,HARAM,Potassium Nitrate(Saltpetre)
+E260,Halal,Acetic Acid
+E261,Halal,Potassium Acetate
+E262,Halal,Sodium Acetate
+E263,Halal,Calcium Acetate
+E264,Halal,Ammonium Acetate
+E270,Halal,Lactic Acid
+E280,Halal,Propionic Acid
+E281,Halal,Sodium Propionate
+E282,Halal,Calcium Propionate
+E283,Halal,Potassium Propionate
+E284,Halal,Boric Acid
+E285,Halal,Sodium Tetraborate
+E290,HARAM,Carbon Dioxide
+E296,Halal,Malic Acid
+E297,Halal,Fumaric Acid
+E300,Halal,L-Ascorbic Acid (Vitamin C)
+E301,Halal,Sodium-L-Ascorbate
+E302,Halal,Calcium-L-Ascorbate
+E303,Halal,Potassium Ascorbate
+E304,Halal,Ascorbyl Palmitate
+E306,Halal,Natural Extracts rich in Tocopherols
+E307,Halal,Synthetic Alpha- Tocopherol
+E308,Halal,Synthetic Gamma- Tocopherol
+E309,Halal,Synthetic Delta- Tocopherol
+E310,Halal,Propyl Gallate
+E311,Halal,Octyl Gallate
+E312,Halal,Dodecyl Gallate
+E315,Halal,Erythorbic Acid
+E316,Halal,Sodium Erythorbate
+E317,Halal,Erythorbin Acid
+E318,Halal,Sodium Erythorbin
+E319,Halal,tert-Butylhydroxyquinone
+E320,Halal,Butylated Hydroxyanisole (BHA)
+E321,Halal,Butylated Hydroxytoluene (BHT)
+E322,Halal,Lecithin
+E325,Halal,Sodium Lactate
+E326,Halal,Potassium Lactate
+E327,Halal,Calcium Lactate
+E329,Halal,Magnesium Lactate
+E330,Halal,Citric Acid
+E331,Halal,Sodium Citrates
+E331a,Halal,Sodium Dihydrogen Citrate
+E331b,Halal,Disodium Citrate
+E331c,Halal,Trisodium Citrate
+E332,Halal,Potassium Citrates
+E333,Halal,Calcium Citrates
+E334,HARAM,Tartaric Acid
+E335,HARAM,Sodium Tartrates
+E336,HARAM,Potassium Tartrates (Cream of Tartar)
+E337,HARAM,Potassium Sodium Tartrates
+E338,Halal,Orthophosphoric Acid
+E339a,Halal,Sodium Phosphates
+E339b,Halal,diSodium hydrogen orthophosphate
+E339c,Halal,triSodium hydrogen orthophosphate
+E340a,Halal,Potassium Phosphates
+E340b,Halal,DiPotassium hydrogen orthophosphate
+E340c,Halal,TriPotassium orthophosphate
+E341a,Halal,Calcium Phosphates
+E341b,Halal,Calcium Hydrogen Orthophosphate
+E341c,Halal,triCalcium diorthophosphate
+E343,Halal,Monomagnesium Phosphate
+E350,Halal,Sodium Malate
+E351,Halal,Potassium Malate
+E352,Halal,Calcium Malate
+E353,HARAM,Metataric Acid
+E354,HARAM,Calcium Tartrate
+E355,Halal,Adipic Acid
+E356,Halal,Sodium Adipate
+E357,Halal,Potassium Adipate
+E363,Halal,Succinic Acid
+E365,Halal,Sodium Fumarate
+E366,Halal,Potassium Fumarate
+E367,Halal,Calcium Fumarate
+E370,Halal,"1,4-Heptonolactone"
+E375,Halal,Nicotinic Acid
+E380,Halal,Triammonium Citrate
+E381,Halal,Ammonium Ferric Citrate
+E385,Halal,Calcium Disodium EDTA
+E400,Halal,Alginic Acid
+E401,Halal,Sodium Alginate
+E402,Halal,Potassium Alginate
+E403,Halal,Ammonium Alginate
+E404,Halal,Calcium Alginate
+E405,Halal,"Propane-1,2-Diol Alginate"
+E406,Halal,Agar
+E407,Halal,Carrageenan
+E407a,Halal,Processed Eucheuma Seaweed
+E410,Halal,Locust Bean Gum (Carob Gum)
+E412,Halal,Guar Gum
+E413,Halal,Tragacanth
+E414,Halal,Gum Acacia (Gum Arabic)
+E415,Halal,Xanthan Gum
+E416,Halal,Karaya Gum
+E417,Halal,Tara Gum
+E418,Halal,Gellan gum
+E420,Halal,Sorbitol
+E420ii,Halal,Sorbitol Syrup
+E421,Halal,Mannitol
+E422,HARAM,Glycerol
+E425,Halal,Konjac gum
+E426,Halal,Soyabean Hemicellulose
+E430,HARAM,Polyoxyethane (8) Stearate
+E431,HARAM,Polyoxyethane (40) Stearate
+E432,Halal,Polyoxyethane (20) Sorbitan / Polysorbate 20
+E433,HARAM,Polyoxyethane (20)
+E434,Halal,Polyoxyethane (20) Sorbitan Monopalmitate / Polysorbate 40
+E435,HARAM,Polyoxyethane (20) Sorbitan Monostearate / Polysorbate 60
+E436,HARAM,Polyoxyethane (20) Sorbitan Tristearate / Polysorbate 65
+E440a,Halal,Pectin
+E440b,HARAM,Amidated Pectin
+E441,HARAM,Gelatin
+E442,HARAM,Emulsifier YN
+E444,Halal,Sucrose Acetate Isobutyrate
+E445,HARAM,Glycerol Esters of Wood Rosin
+"E450a,b,c",Halal,Sodium and Potassium Phosphates and Polyphosphates
+E450b,Halal,pentaSodium Triphosphate
+E450c,Halal,Sodium Polyphosphates
+E450v,Halal,Tetrapotassium Pyrophosphate
+E451,Halal,Tetrapotassium Pyrophosphate
+E452,Halal,Triphosphates
+E459,Halal,Beta-cyclodextrin
+E460,Halal,Microcrystalline / Powdered Cellulose
+E461,Halal,Methylcellulose
+E462,Halal,Ethyl Cellulose
+E463,Halal,Hydroxypropylcellulose
+E464,Halal,Hydroxypropyl- Methylcellulose
+E465,Halal,Ethylmethylcellulose
+E466,Halal,"Carboxymethylcellulose, Sodium Salt"
+E467,Halal,Ethylhydroxyethyl Cellulose
+E468,Halal,Crosslinked Sodium
+E469,Halal,Enzymetically Hydrolysed Carboxymethyl Cellulose
+E470,HARAM,"Sodium, Potassium and Calcium Salts of Fatty Acids"
+E470b,HARAM,Magnesium Salts of Fatty Acids
+E471,HARAM,Mono-and Diglycerides of Fatty Acids
+E472,HARAM,Various Esters of Mono- and Diglycerides of Fatty Acids
+E472b,HARAM,Lactoglycerides
+E472c,HARAM,Citroglycerides
+E472d,HARAM,Tartaric acid glycerol esters
+E472e,HARAM,Acetyltartaric acid glycerol esters
+E472f,HARAM,Mixed Acetic & Tartaric Acid Esters of Mono & Digl
+E473,HARAM,Sucrose Esters of Fatty Acids
+E474,HARAM,Sucroglycerides
+E475,HARAM,Polyglycerol Esters of Fatty Acids
+E476,HARAM,Polyglycerol Esters of Polycondensed Esters of Caster Oil
+E477,HARAM,"Propane-1,2-Diol Esters of Fatty Acids"
+E478,HARAM,"Lactylated Fatty Acid Esters of Glycerol and Propane-1,2-Diol"
+E479b,HARAM,Thermally oxidized Soya Bean Oil interacted with M
+E481,HARAM,Sodium Stearoyl-2- Lactylate
+E482,HARAM,Calcium Stearoyl-2- Lactylate
+E483,HARAM,Stearyl Tartrate
+E491,HARAM,Sorbitan Monostearate
+E492,HARAM,Sorbitan Tristearate
+E493,Halal,Sorbitan Monolaurate
+E494,HARAM,Sorbitan Mono-oleate
+E495,Halal,Sorbitan Monopalmitate
+E496,HARAM,Sorbitan
+E500,Halal,Sodium Carbonate / Sodium Bicarbonate
+E501,Halal,Potassium Carbonate
+E503,Halal,Ammonium Carbonate
+E504,Halal,Magnesium Carbonate
+E507,Halal,Hydrochloric Acid
+E508,Halal,Potassium Chloride
+E509,Halal,Calcium Chloride
+E510,Halal,Ammonium Chloride
+E511,Halal,Magnesium Chloride
+E512,Halal,Stannous Chloride
+E513,Halal,Sulphuric Acid
+E514,Halal,Sodium Sulphate
+E515,Halal,Potassium Sulphate
+E516,Halal,Calcium Sulphate
+E517,Halal,Ammonium Sulphate
+E518,Halal,Magnesium Sulphate
+E519,Halal,Copper (II) Sulphate
+E520,Halal,Aluminium Sulphate
+E520,Halal,Aluminium Sodium Sulphate
+E522,Halal,Aluminium Potassium Sulphate
+E523,Halal,Aluminium Ammonium Sulphate
+E524,Halal,Sodium Hydroxide
+E525,Halal,Potassium Hydroxide
+E526,Halal,Calcium Hydroxide
+E527,Halal,Ammonium Hydroxide
+E528,Halal,Magnesium Hydroxide
+E529,Halal,Calcium Oxide
+E530,Halal,Magnesium Oxide
+E535,Halal,Sodium Ferrocyanide
+E536,Halal,Potassium Ferrocyanide
+E538,Halal,Calcium Ferrocyanide
+E540,Halal,Dicalcium Ferrocyanide
+E541,Halal,Sodium Aluminium Phosphate
+E542,HARAM,Edible Bone Phosphate (Bone-Meal)
+E543,Halal,Calcium Sodium Polyphosphate
+E544,Halal,Calcium Polyphosphates
+E545,Halal,Ammonium Polyphosphates
+E550,Halal,Sodium Silicate
+E551,Halal,Silicon Dioxide (Silica Salt)
+E552,Halal,Calcium Silicate
+E553a,Halal,Magnesium Silicate
+E553,Halal,Magnesium Silicate / Magnesium Trisilicate (Talc)
+E554,Halal,Aluminium Sodium Silicate
+E555,Halal,Pottasium Aluminium Silicate
+E556,Halal,Aluminium Calcium Silicate
+E558,Halal,Bentonite
+E559,Halal,Kaolin (Aluminium Silicate)
+E570,HARAM,Stearic Acid
+E572,HARAM,Magnesium Stearate
+E574,Halal,Gluconic Acid
+E575,Halal,Glucono Delta-Lactone
+E576,Halal,Sodium Gluconate
+E577,Halal,Potassium Gluconate
+E578,Halal,Calcium Gluconate
+E579,Halal,Ferrous Gluconate
+E585,Halal,Ferrous Lactate
+E586,Halal,4-Hexylresorcinol
+E620,Halal,L-Glutamic Acid
+E621,Halal,Monosodium Glutamate (MSG)
+E622,Halal,Monopotassium Glutamate
+E623,Halal,Calcium Glutamate
+E624,Halal,Monoammonium Glutamate
+E625,Halal,Magnesium Diglutamate
+E625,Halal,Guanylic acid
+E627,Halal,Sodium Guanylate
+E628,Halal,Dipotassium Guanylate
+E629,Halal,Calcium Guanylate
+E630,HARAM,Inosinic Acid
+E631,HARAM,Sodium 5-Inosinate
+E632,HARAM,Sodium 5-Inosinate
+E633,HARAM,Calcium Inosinate
+E634,HARAM,Calcium 5-ribonucleotides
+E635,HARAM,Sodium5-Ribonucleotide
+E636,Halal,Maltol
+E637,Halal,Ethyl Maltol
+E640,HARAM,Glycine & its Sodium Salt
+E650,Halal,Zinc Acetate
+E900,Halal,Dimethylpolysiloxane
+E901,Halal,Beeswax
+E902,Halal,Candelilla Wax
+E903,Halal,Carnauba Wax
+E904,Halal,Shellac
+E905,Halal,Mineral Hydrocarbons
+E905a,Halal,Mineral Oil
+E906,Halal,Gum Benzoic
+E907,Halal,Refined Microcrystalline Wax
+E908,Halal,Rice Bran Wax
+E910,HARAM,L-Cysteine
+E912,Halal,Montanic acid esters
+E913,Halal,Lanolin
+E914,Halal,Oxidised Polyethylene Wax
+E915,HARAM,Esters of Colophony
+E920,HARAM,L-Cysteine Hydrochloride
+E921,HARAM,L-Cystine
+E922,Halal,Potassium Persulphate
+E923,Halal,Ammonium Persulphate
+E924,Halal,Potassium Bromate
+E925,Halal,Chlorine
+E926,Halal,Chlorine Dioxide
+E927,Halal,Azodicarbonamide
+E927b,Halal,Carbamide
+E928,Halal,Benzoyl Peroxide
+E930,Halal,Calcium Peroxide
+E938,Halal,Argon
+E939,Halal,Helium
+E940,Halal,Dichlorodifluoromethane
+E941,Halal,Nitrogen
+E942,Halal,Nitrous Oxide
+E943a,Halal,Butane
+E943b,Halal,Isobutane
+E944,Halal,Propane
+E948,Halal,Oxygen
+E949,Halal,Hydrogen
+E950,Halal,Acesulfame K
+E951,Halal,Aspartame
+E952i,Halal,Cylamic Acid
+E952ii,Halal,Calcium Cyclamate
+E953,Halal,Isomalt
+E954,Halal,Saccharin and its Salts
+E955,Halal,Sucralose
+E957,Halal,Thaumatin
+E959,Halal,Neohesperidine DihydroChalcone
+E962,Halal,Salt of Aspartame- Acesulfame
+E965,Halal,Maltitol
+E965{ii},Halal,Maltitol Syrup
+E966,Halal,Lactitol
+E967,Halal,Xylitol
+E968,Halal,Erythritol
+E999,Halal,Quillaia Extract
+E1000,HARAM,Cholic Acid
+E1100,Halal,Amylase
+E1101,HARAM,Protease
+E1103,Halal,Invertase
+E1105,Halal,Lysozyme
+E1200,Halal,Polydextrose
+E1201,Halal,Polyvinylpyrrolidone
+E1202,Halal,Polyvinylpolypyrrolidone
+E1203,Halal,Monostarch Phosphate
+E1400,Halal,Dextrin
+E1401,Halal,Modified Starch
+E1402,Halal,Alkaline Modified Starch
+E1403,Halal,Bleached Starch
+E1404,Halal,Oxidised Starch
+E1405,HARAM,Enzyme Treated Starch
+E1410,HARAM,Phosphate
+E1412,HARAM,Distarch Phosphate
+E1413,Halal,Phoshated Distarch Phosphate
+E1414,Halal,Acetylated Distarch Phosphate
+E1420,Halal,Acetylated Starch
+E1421,Halal,Acetylated Starch
+E1422,Halal,Acetylated Distarch Adipate
+E1423,HARAM,Acetylated Distarch Glycerol
+E1430,HARAM,Distarch Glycerine
+E1440,Halal,Hydroxypropyl Starch
+E1441,HARAM,Hydroxy Propyl Distarch Glycerine
+E1442,Halal,Hydroxypropyl Distarch Phosphate
+E1443,HARAM,Hydroxy Propyl Starch Glycerol
+E1450,Halal,Starch Sodium Octenyl Succinate
+E1451,Halal,Acetylated Oxidised Starch
+E1505,Halal,Triethyl Citrate
+E1510,HARAM,Ethanol
+E1517,HARAM,Diacetate
+E1518,HARAM,Glyceryl Triacetate
+E1519,Halal,Benzyl Alcohol
+E1520,Halal,Propylene Glycol
